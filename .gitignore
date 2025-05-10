@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# Upload Directory
+uploads/
+
+# Logs
+logs/
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+# React / Create-React-App
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-error.log*
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
